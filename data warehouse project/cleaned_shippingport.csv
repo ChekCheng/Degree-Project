@@ -1,0 +1,481 @@
+Country,PortName,VesselsinPort,Average_Departures,Average_Arrivals,Type,AreaLocal,AreaGlobal
+China,SHANGHAI,2420,1376,1626,Port,East China Sea,Central China
+China,NANTONG,1572,1173,1287,Port,East China Sea,Central China
+China,CJK,1529,343,370,Anchorage,East China Sea,Central China
+China,NANJING,1414,667,1060,Port,East China Sea,Central China
+China,JIANGYIN,1112,1076,1070,Port,East China Sea,Central China
+Singapore,SINGAPORE,1109,1682,1748,Port,Singapore Area,Indonesia
+China,ZHANGJIAGANG,1094,653,608,Port,East China Sea,Central China
+China,ZHOUSHAN,1064,791,839,Port,East China Sea,Central China
+China,YANGZHOU,945,654,786,Port,East China Sea,Central China
+China,TIANJIN,868,409,428,Port,Bohai Sea,North China
+China,JINZHOU ANCH,863,192,292,Anchorage,Bohai Sea,North China
+Hong Kong,HONG KONG,833,766,753,Port,South China,South China
+Netherlands,AMSTERDAM,767,179,228,Port,North Sea,UK Coast & Atlantic
+China,LANSHAN,731,472,641,Port,Yellow Sea,North China
+China,JINGJIANG,716,679,843,Port,East China Sea,Central China
+Belgium,ANTWERP,686,211,247,Port,Antwerp Area,UK Coast & Atlantic
+China,QUANZHOU,662,204,129,Port,East China Sea,South China
+China,GUANGZHOU,638,234,296,Port,South China,South China
+China,HUANGHUA ANCH,602,344,399,Anchorage,Bohai Sea,North China
+China,FANGCHENG,562,259,336,Port,South China,South China
+China,ZHANJIANG,550,45,83,Port,South China,South China
+China,NINGBO,534,480,576,Port,East China Sea,Central China
+Singapore,SINGAPORE ANCH,516,1271,1224,Anchorage,Singapore Area,Indonesia
+USA,FORT LAUDERDALE,491,21,41,Port,US East Coast,US East Coast
+Turkey,ISTANBUL,486,455,496,Canal,Marmara Sea,Black Sea
+China,XIAMEN,465,162,164,Port,East China Sea,South China
+China,CAOFEIDIAN,460,339,323,Port,Bohai Sea,North China
+Korea,BUSAN,438,362,351,Port,North China,North China
+China,LIANYUNGANG,416,84,187,Port,Yellow Sea,North China
+USA,SEATTLE,407,158,170,Port,US West Coast,US West Coast
+China,SHIDAO,403,349,400,Port,Yellow Sea,North China
+Korea,INCHEON,391,149,204,Port,Yellow Sea,North China
+Germany,HAMBURG,389,69,83,Port,Elbe River,UK Coast & Atlantic
+China,QINGDAO,387,202,212,Port,Yellow Sea,North China
+Taiwan,KAOHSIUNG,372,112,113,Port,South China,South China
+USA,HOUSTON,369,90,103,Port,Gulf of Mexico,Gulf of Mexico
+USA,SAN DIEGO,369,53,69,Port,US West Coast,US West Coast
+China,CHANGZHOU,364,319,403,Port,East China Sea,Central China
+USA,NEW YORK,351,150,158,Port,Hudson River,US East Coast
+USA,NEW ORLEANS,351,70,87,Port,Gulf of Mexico,Gulf of Mexico
+China,XINHUI,340,73,154,Port,South China,South China
+China,MINHANG,332,197,256,Port,East China Sea,Central China
+China,ZHENJIANG,321,926,952,Port,East China Sea,Central China
+China,TAIZHOU,319,45,92,Port,East China Sea,Central China
+China,TAICANG,312,496,501,Port,East China Sea,Central China
+Korea,ULSAN,303,298,312,Port,North China,North China
+China,LAIZHOU BAY,300,75,103,Anchorage,Bohai Sea,North China
+Korea,YEOSU,284,311,353,Port,East China Sea,North China
+China,TIANJIN ANCH,283,326,408,Anchorage,Bohai Sea,North China
+China,PINGTAN,278,31,34,Port,East China Sea,South China
+Spain,PALMA DE MALLORCA,276,73,76,Port,Balearic Sea,West Mediterranean
+China,YANTAI,271,323,325,Port,Bohai Sea,North China
+China,ZHONGSHAN,271,146,181,Port,South China,South China
+China,DALIAN,266,197,208,Port,Yellow Sea,North China
+China,RIZHAO,265,296,320,Port,Yellow Sea,North China
+China,QINZHOU,262,110,98,Port,South China,South China
+Netherlands,ROTTERDAM WAALHAVEN,260,148,184,Port,Rotterdam Area,UK Coast & Atlantic
+China,QINHUANGDAO,255,209,184,Port,Bohai Sea,North China
+China,LONGKOU,255,432,493,Port,Bohai Sea,North China
+United Arab Emirates,DUBAI,247,35,56,Port,Dubai Area,Arabian Gulf
+China,NINGBO ANCH,243,160,208,Anchorage,East China Sea,Central China
+China,HUANGHUA,231,95,114,Port,Bohai Sea,North China
+China,DONG GUAN,231,84,102,Port,South China,South China
+China,NANTONG ANCH,229,214,206,Anchorage,East China Sea,Central China
+China,WENZHOU ANCH,228,98,105,Anchorage,East China Sea,Central China
+China,HUIZHOU,226,72,86,Port,South China,South China
+Netherlands,ENKHUIZEN,221,188,196,Port,North Sea,UK Coast & Atlantic
+Vietnam,HAI PHONG,215,78,103,Port,South-East Asia,South-East Asia
+Canada,VANCOUVER,211,70,88,Port,West Coast Canada,West Coast Canada
+China,MAJISHAN,206,197,227,Port,East China Sea,Central China
+Russia,ST PETERSBURG,201,43,41,Port,Finland Gulf,"Inland, Russia"
+Netherlands,HARLINGEN,200,83,129,Port,North Sea,UK Coast & Atlantic
+USA,MIAMI,200,66,65,Port,US East Coast,US East Coast
+Romania,CONSTANTA,198,30,18,Port,Black Sea,Black Sea
+China,YANGPU,197,75,76,Port,South China,South China
+China,ZHAPU,191,143,142,Port,East China Sea,Central China
+Indonesia,BATU AMPAR,187,128,124,Port,Singapore Area,Indonesia
+Indonesia,JAKARTA,186,95,116,Port,Java Sea,Indonesia
+China,NANSHA,181,280,281,Port,South China,South China
+Netherlands,ROTTERDAM,179,199,193,Port,Rotterdam Area,UK Coast & Atlantic
+USA,ANACORTES,179,75,90,Port,West Coast Canada,West Coast Canada
+Korea,MOKPO,177,102,94,Port,Yellow Sea,North China
+Belgium,GHENT,176,86,74,Port,Antwerp Area,UK Coast & Atlantic
+USA,NORFOLK,175,28,37,Port,US East Coast,US East Coast
+Spain,VALENCIA,173,40,41,Port,Balearic Sea,West Mediterranean
+China,FULING,173,15,45,Port,"Inland, China","Inland, China"
+China,CHANGSHU,171,282,296,Port,East China Sea,Central China
+Turkey,BODRUM,171,72,73,Port,Aegean Sea,East Mediterranean
+China,GAOGANG,171,123,118,Port,East China Sea,Central China
+Netherlands,DORDRECHT,170,86,100,Port,Rotterdam Area,UK Coast & Atlantic
+China,NINGDE ANCH,170,110,120,Anchorage,East China Sea,South China
+China,WEIHAI,169,134,179,Port,Yellow Sea,North China
+Russia,VLADIVOSTOK,168,55,65,Port,CIS Pacific,CIS Pacific
+United Kingdom,PLYMOUTH,168,40,72,Port,English Channel,UK Coast & Atlantic
+China,JINGTANG ANCH,167,96,103,Anchorage,Bohai Sea,North China
+Italy,GENOVA,165,55,44,Port,Ligurean Sea,West Mediterranean
+Vietnam,HO CHI MINH,163,42,63,Port,South-East Asia,South-East Asia
+Spain,BARCELONA,162,119,122,Port,Balearic Sea,West Mediterranean
+Indonesia,MUARA BERAU ANCH,162,59,61,Anchorage,Makassar Strait,Indonesia
+USA,FOURCHON,160,58,86,Port,Gulf of Mexico,Gulf of Mexico
+Malaysia,PORT KLANG,158,91,106,Port,Malacca Strait,Indonesia
+China,LIUHENG,158,312,304,Port,East China Sea,Central China
+China,TONGLING,158,43,74,Port,"Inland, China","Inland, China"
+China,MEIZHOU ISLAND,156,205,256,Port,East China Sea,South China
+Turkey,ISTANBUL ANCH,154,169,164,Anchorage,Marmara Sea,Black Sea
+China,NANSHA ANCH,151,234,223,Anchorage,South China,South China
+Netherlands,ROTTERDAM BOTLEK,150,160,172,Port,Rotterdam Area,UK Coast & Atlantic
+Turkey,GOCEK,150,37,63,Port,East Mediterranean,East Mediterranean
+China,LANSHAN ANCH,150,300,309,Anchorage,Yellow Sea,North China
+Spain,LAS PALMAS,149,66,78,Port,West Africa,West Africa
+China,LIANYUNGANG ANCH,149,116,102,Anchorage,Yellow Sea,North China
+Taiwan,TAICHUNG,148,112,70,Port,East China Sea,South China
+China,ZHANGZHOU,148,80,84,Port,East China Sea,South China
+Turkey,TUZLA,148,53,59,Port,Marmara Sea,Black Sea
+India,MUMBAI ANCH,148,88,82,Anchorage,West Coast India,West Coast India
+USA,MARINA DEL REY,146,39,57,Port,US West Coast,US West Coast
+Netherlands,ROTTERDAM CENTRUM,146,165,152,Port,Rotterdam Area,UK Coast & Atlantic
+Poland,GDANSK,145,75,92,Port,Baltic Sea,Baltic Sea
+Germany,ROSTOCK,145,66,81,Port,Baltic Sea,Baltic Sea
+China,HUANGPU,144,193,207,Port,South China,South China
+Sweden,STOCKHOLM,144,98,100,Port,Baltic Sea,Baltic Sea
+USA,NEWPORT,144,104,104,Port,US East Coast,US East Coast
+Russia,MURMANSK,143,44,52,Port,Barents Sea,North Coast CIS
+Germany,BREMERHAVEN,142,80,80,Port,Elbe River,UK Coast & Atlantic
+China,JIANGYIN ANCH,141,122,108,Anchorage,East China Sea,Central China
+United Arab Emirates,FUJAIRAH ANCH,140,166,157,Anchorage,Oman Gulf,Arabian Gulf
+China,TAICANG ANCH,140,135,136,Anchorage,East China Sea,Central China
+China,QINHUANGDAO ANCH,140,108,121,Anchorage,Bohai Sea,North China
+China,BEIHAI,139,48,67,Port,South China,South China
+Australia,SYDNEY,139,303,306,Port,Coral Sea,East Australia
+USA,NEWPORT BEACH,138,29,53,Port,US West Coast,US West Coast
+USA,CHARLESTON,137,29,26,Port,US East Coast,US East Coast
+Denmark,COPENHAGEN,137,43,53,Port,Kattegat,Baltic Sea
+Indonesia,TABONEO ANCH,133,72,69,Anchorage,Java Sea,Indonesia
+United Kingdom,GOSPORT,133,82,107,Port,English Channel,UK Coast & Atlantic
+Netherlands,DEN HELDER,132,42,61,Port,North Sea,UK Coast & Atlantic
+China,RIZHAO ANCH,130,332,326,Anchorage,Yellow Sea,North China
+Netherlands,LELYSTAD,129,114,121,Port,North Sea,UK Coast & Atlantic
+France,LA ROCHELLE VIEUX,129,32,77,Port,Biscay Bay,UK Coast & Atlantic
+Japan,YOKOHAMA,128,204,234,Port,Japan Coast,Japan Coast
+Malta,VALLETTA,128,61,67,Port,West Mediterranean,West Mediterranean
+Netherlands,ROTTERDAM MAASVLAKTE,128,171,161,Port,Rotterdam Area,UK Coast & Atlantic
+China,QUANZHOU ANCH,128,108,105,Anchorage,East China Sea,South China
+Brazil,RIO DE JANEIRO,127,38,43,Port,East Coast South America,East Coast South America
+China,CHONGQING,126,25,31,Port,"Inland, China","Inland, China"
+Italy,LA SPEZIA,124,22,30,Port,Ligurean Sea,West Mediterranean
+Japan,NAGOYA,122,115,114,Port,Japan Coast,Japan Coast
+Netherlands,IJMUIDEN,122,120,114,Port,North Sea,UK Coast & Atlantic
+China,HUANGPU ANCH,121,95,92,Anchorage,South China,South China
+China,ZHUJIAN KOU ANCH,120,193,194,Anchorage,South China,South China
+Brazil,SANTOS,119,29,28,Port,East Coast South America,East Coast South America
+China,WENZHOU,119,54,41,Port,East China Sea,Central China
+USA,LOS ANGELES,119,92,105,Port,US West Coast,US West Coast
+China,HUMEN,119,102,102,Port,South China,South China
+France,ANTIBES,119,18,21,Port,Ligurean Sea,West Mediterranean
+Thailand,BANGKOK,118,47,41,Port,Gulf of Thailand,South-East Asia
+Germany,KIEL,118,60,89,Port,Kiel Canal,Baltic Sea
+China,ZHOUSHAN ANCH,118,150,147,Anchorage,East China Sea,Central China
+China,LONGHAI,118,34,5,Port,East China Sea,South China
+Philippines,MANILA ANCH,117,41,70,Anchorage,Philippines,Philippines
+United Kingdom,SOUTHAMPTON,116,126,119,Port,English Channel,UK Coast & Atlantic
+Indonesia,BANJARMASIN,116,35,67,Port,Java Sea,Indonesia
+Malta,MARSAMXETT,115,31,31,Port,West Mediterranean,West Mediterranean
+Russia,NOVOROSSIYSK,114,56,56,Port,Black Sea,Black Sea
+United Arab Emirates,FUJAIRAH,113,127,129,Port,Oman Gulf,Arabian Gulf
+China,JINZHOU,113,193,114,Port,Bohai Sea,North China
+China,WEIFANG,113,37,38,Port,Bohai Sea,North China
+China,YIZHENG,113,77,106,Port,East China Sea,Central China
+Greece,FLISVOS,113,13,35,Marina,Piraeus Area,East Mediterranean
+Turkey,YALOVA,112,107,105,Port,Marmara Sea,Black Sea
+Argentina,BUENOS AIRES,111,37,33,Port,East Coast South America,East Coast South America
+United Arab Emirates,MUSAFFAH,111,30,20,Port,Persian Gulf,Arabian Gulf
+Netherlands,MAKKUM,111,26,69,Port,North Sea,UK Coast & Atlantic
+Netherlands,BRUINISSE,110,89,89,Port,North Sea,UK Coast & Atlantic
+Korea,PYEONGTAEK,109,28,30,Port,Yellow Sea,North China
+Vietnam,VUNG TAU,109,98,125,Port,South-East Asia,South-East Asia
+China,ZHUHAI,109,104,108,Port,South China,South China
+Australia,DARWIN,109,22,16,Port,Timor Sea,North Australia
+China,CAOFEIDIAN ANCH,108,126,127,Anchorage,Bohai Sea,North China
+France,LE HAVRE,107,69,79,Port,English Channel,UK Coast & Atlantic
+Poland,SZCZECIN,107,18,24,Port,Baltic Sea,Baltic Sea
+Norway,OSLO,107,73,81,Port,Skagerrak,Norwegian Coast
+USA,GALVESTON,106,123,130,Port,Gulf of Mexico,Gulf of Mexico
+Germany,CUXHAVEN,105,45,55,Port,Elbe River,UK Coast & Atlantic
+Indonesia,JAKARTA ANCH,105,52,71,Anchorage,Java Sea,Indonesia
+South Africa,CAPE TOWN,104,56,58,Port,South Africa,South Africa
+USA,SHILSHOLE,104,31,41,Port,US West Coast,US West Coast
+Sweden,GOTEBORG,103,52,63,Port,Kattegat,Baltic Sea
+Germany,BERLIN,103,18,20,Port,"Inland, Europe","Inland, Europe"
+Turkey,FETHIYE,103,58,60,Port,East Mediterranean,East Mediterranean
+Poland,GDYNIA,102,54,48,Port,Baltic Sea,Baltic Sea
+China,YANTAI ANCH,102,264,266,Anchorage,Bohai Sea,North China
+Russia,KAVKAZ SOUTH ANCH,101,48,56,Anchorage,Azov Sea,Black Sea
+China,BAYUQUAN,100,120,87,Port,Bohai Sea,North China
+Bahrain,SITRAH,100,44,41,Port,Persian Gulf,Arabian Gulf
+China,XINSHA,99,66,70,Port,South China,South China
+Germany,DUISBURG,98,63,78,Port,"Inland, Europe","Inland, Europe"
+United Kingdom,LYMINGTON,98,72,76,Port,English Channel,UK Coast & Atlantic
+Netherlands,LEMMER,97,81,83,Port,North Sea,UK Coast & Atlantic
+Australia,BRISBANE,96,18,24,Port,Coral Sea,East Australia
+China,SHEKOU,96,159,156,Port,South China,South China
+France,BREST,96,38,66,Port,Biscay Bay,UK Coast & Atlantic
+China,HONGWAN,96,31,47,Port,South China,South China
+Belgium,ZEEBRUGGE,95,41,45,Port,North Sea,UK Coast & Atlantic
+Portugal,LISBOA,95,158,173,Port,UK Coast & Atlantic,UK Coast & Atlantic
+United Kingdom,MERCURY,94,24,62,Marina,English Channel,UK Coast & Atlantic
+Hungary,BUDAPEST,93,17,21,Port,"Inland, Europe","Inland, Europe"
+Spain,VIGO,93,65,75,Port,UK Coast & Atlantic,UK Coast & Atlantic
+USA,BOSTON,93,67,72,Port,US East Coast,US East Coast
+Macao,MACAU,93,48,46,Port,South China,South China
+China,DALIAN ANCH,93,123,123,Anchorage,Yellow Sea,North China
+China,BAYUQUAN ANCH,93,61,108,Anchorage,Bohai Sea,North China
+Colombia,CARTAGENA,92,126,136,Port,North Coast South America,North Coast South America
+Saudi Arabia,DAMMAM,92,35,39,Port,Persian Gulf,Arabian Gulf
+USA,PORTLAND OR,92,45,64,Port,US West Coast,US West Coast
+United Kingdom,LONDON,92,112,110,Port,North Sea,UK Coast & Atlantic
+Monaco,MONACO,92,42,50,Port,Ligurean Sea,West Mediterranean
+China,QUSHAN,92,121,120,Port,East China Sea,Central China
+Belgium,NIEUWPOORT,92,36,45,Port,English Channel,UK Coast & Atlantic
+Netherlands,HELLEVOETSLUIS,92,34,56,Port,Rotterdam Area,UK Coast & Atlantic
+Russia,ASTRAKHAN,91,3,15,Port,Caspian Sea,Caspian Sea
+USA,TACOMA,91,30,39,Port,US West Coast,US West Coast
+Netherlands,MEDEMBLIK,91,74,63,Port,North Sea,UK Coast & Atlantic
+Australia,CORAL SEA MARINA,91,44,39,Marina,East Australia,East Australia
+Gibraltar,GIBRALTAR,90,79,89,Port,Gibraltar,West Mediterranean
+Senegal,DAKAR,90,12,20,Port,West Africa,West Africa
+Korea,GWANGYANG,89,78,80,Port,East China Sea,North China
+Uruguay,MONTEVIDEO,89,10,11,Port,East Coast South America,East Coast South America
+Belgium,OOSTENDE,89,41,56,Port,English Channel,UK Coast & Atlantic
+China,DONGYING,88,73,83,Port,Bohai Sea,North China
+France,MARSEILLE,88,72,91,Port,West Mediterranean,West Mediterranean
+Argentina,MAR DEL PLATA,88,4,12,Port,East Coast South America,East Coast South America
+Spain,DENIA,88,17,11,Port,Balearic Sea,West Mediterranean
+India,MUMBAI,87,75,74,Port,West Coast India,West Coast India
+Mauritius,PORT LOUIS,87,23,27,Port,East Africa,East Africa
+Korea,POHANG,87,69,70,Port,North China,North China
+Ukraine,IZMAIL,87,18,17,Port,Black Sea,Black Sea
+Bahrain,MUHARRAQ,87,8,6,Port,Persian Gulf,Arabian Gulf
+China,LUOYUAN,86,30,35,Port,East China Sea,South China
+China,CHENJIAGANG,86,29,23,Port,Yellow Sea,North China
+United Kingdom,FALMOUTH,86,39,54,Port,Celtic Sea,UK Coast & Atlantic
+China,SANYA,86,0,5,Port,South China,South China
+China,SANSHAN,86,48,41,Port,East China Sea,"Inland, China"
+Japan,TOKYO,85,73,88,Port,Japan Coast,Japan Coast
+Spain,CADIZ,85,139,133,Port,Gibraltar,UK Coast & Atlantic
+USA,PALM BEACH,85,15,16,Port,US East Coast,US East Coast
+USA,LONG BEACH,84,133,147,Port,US West Coast,US West Coast
+Japan,KOBE,84,128,119,Port,Japan Coast,Japan Coast
+Qatar,RAS LAFFAN,84,45,48,Port,Persian Gulf,Arabian Gulf
+USA,BALTIMORE,84,44,45,Port,US East Coast,US East Coast
+Spain,CARTAGENA,84,36,35,Port,West Mediterranean,West Mediterranean
+China,SONGMEN,84,24,32,Port,East China Sea,Central China
+USA,LAKE CHARLES,83,48,48,Port,Gulf of Mexico,Gulf of Mexico
+United Kingdom,HAMBLE POINT,83,51,78,Marina,English Channel,UK Coast & Atlantic
+Brazil,SANTOS ANCH,83,23,22,Anchorage,East Coast South America,East Coast South America
+China,JINGTANG,82,57,61,Port,Bohai Sea,North China
+Netherlands,TERNEUZEN,82,158,148,Port,Antwerp Area,UK Coast & Atlantic
+Germany,HEILIGENHAFEN,82,26,32,Port,Baltic Sea,Baltic Sea
+United Arab Emirates,SHARJAH ANCH,82,59,52,Anchorage,Dubai Area,Arabian Gulf
+Belgium,ANTWERP ANCH,82,52,38,Anchorage,North Sea,UK Coast & Atlantic
+Australia,MANLY HARBOUR,82,6,22,Marina,Coral Sea,East Australia
+China,XIAMEN ANCH,82,59,77,Anchorage,East China Sea,South China
+Norway,BERGEN,81,66,70,Port,North Sea,Norwegian Coast
+Norway,TROMSO,81,38,55,Port,Norwegian Coast,Norwegian Coast
+China,DONGJIAKOU,80,94,100,Port,Yellow Sea,North China
+Finland,HELSINKI,80,101,123,Port,Finland Gulf,Baltic Sea
+Egypt,SUEZ CANAL,79,30,75,Canal,East Mediterranean,East Mediterranean
+Indonesia,PALEMBANG,79,31,26,Port,Java Sea,Indonesia
+China,HUIZHOU ANCH,79,60,57,Anchorage,South China,South China
+France,SAINT TROPEZ,79,54,86,Marina,Ligurean Sea,West Mediterranean
+USA,BELLINGHAM,79,29,37,Port,West Coast Canada,West Coast Canada
+Thailand,SRIRACHA ANCH,79,36,32,Anchorage,Gulf of Thailand,South-East Asia
+Greece,PIRAEUS,78,117,122,Port,Piraeus Area,East Mediterranean
+China,JIMIYA,78,166,162,Port,Yellow Sea,North China
+China,FANGCHENG ANCH,78,110,120,Anchorage,South China,South China
+Thailand,LAEM CHABANG,77,54,57,Port,Gulf of Thailand,South-East Asia
+Netherlands,VLISSINGEN,77,40,49,Port,Antwerp Area,UK Coast & Atlantic
+Germany,BREMEN,77,22,24,Port,North Sea,"Inland, Europe"
+France,PARIS,77,16,16,Port,"Inland, Europe","Inland, Europe"
+Australia,PORT HEDLAND,76,59,72,Port,Timor Sea,West Australia
+Australia,GLADSTONE,76,16,14,Port,Coral Sea,East Australia
+Panama,PANAMA ANCH PACIFIC,76,82,81,Anchorage,Panama Canal,West Coast Central America
+India,SIKKA,75,6,4,Port,West Coast India,West Coast India
+China,XIUYU,75,16,20,Port,East China Sea,South China
+Netherlands,HOORN,75,58,41,Port,North Sea,UK Coast & Atlantic
+Bangladesh,CHITTAGONG ANCH,75,22,18,Anchorage,Bengal Bay,East Coast India
+Japan,OSAKA,74,93,109,Port,Japan Coast,Japan Coast
+Indonesia,SURABAYA,74,54,58,Port,Java Sea,Indonesia
+Saudi Arabia,RAS TANURA,74,25,16,Port,Persian Gulf,Arabian Gulf
+Lithuania,KLAIPEDA,74,37,37,Port,Baltic Sea,Baltic Sea
+South Africa,DURBAN,73,20,20,Port,South Africa,South Africa
+Nigeria,LAGOS,73,14,23,Port,Gulf of Guinea,West Africa
+United Arab Emirates,SHARJAH,73,41,52,Port,Persian Gulf,Arabian Gulf
+Turkey,CANAKKALE,73,10,38,Canal,Aegean Sea,East Mediterranean
+China,TAIXING,73,29,46,Port,East China Sea,Central China
+Norway,MYRE,73,18,13,Port,Norwegian Coast,Norwegian Coast
+Netherlands,STAVOREN,73,79,73,Port,North Sea,UK Coast & Atlantic
+China,NINGDE,72,34,36,Port,East China Sea,South China
+China,SHENZHEN,72,166,198,Port,South China,South China
+India,HAZIRA,72,67,71,Port,West Coast India,West Coast India
+Spain,IBIZA,72,96,92,Port,Balearic Sea,West Mediterranean
+Thailand,PHUKET,72,29,25,Port,Andaman Sea,South-East Asia
+Spain,ALGECIRAS,71,191,202,Port,Gibraltar,West Mediterranean
+Chile,PUERTO MONTT,71,21,22,Port,West South America,West South America
+Ukraine,RENI,71,3,5,Port,"Inland, Europe","Inland, Europe"
+USA,HONOLULU,71,32,33,Port,Hawaii,North Pacific
+USA,EVERETT,71,16,25,Port,US West Coast,US West Coast
+France,LORIENT,71,38,59,Port,Biscay Bay,UK Coast & Atlantic
+China,JINTANG,71,35,46,Port,East China Sea,Central China
+Greece,ZEA,71,8,14,Marina,Piraeus Area,East Mediterranean
+Norway,STAVANGER,70,95,113,Port,North Sea,Norwegian Coast
+United Arab Emirates,ZAKUM,70,34,35,Port,Persian Gulf,Arabian Gulf
+USA,PORTLAND ME,70,38,45,Port,US East Coast,US East Coast
+United Arab Emirates,JEBEL ALI,69,64,60,Port,Persian Gulf,Arabian Gulf
+Italy,LIVORNO,69,28,28,Port,Ligurean Sea,West Mediterranean
+Argentina,RECALADA,69,18,12,Anchorage,East Coast South America,East Coast South America
+Saudi Arabia,DAMMAM ANCH,69,31,36,Anchorage,Persian Gulf,Arabian Gulf
+USA,HOUSTON ANCH,69,45,41,Anchorage,Gulf of Mexico,Gulf of Mexico
+Netherlands,MONNICKENDAM,69,29,43,Port,North Sea,UK Coast & Atlantic
+Canada,HALIFAX,68,18,19,Port,East Coast Canada,East Coast Canada
+China,LAIZHOU,68,150,160,Port,Bohai Sea,North China
+Latvia,RIGA,68,29,26,Port,Baltic Sea,Baltic Sea
+Norway,BATSFJORD,68,17,15,Port,Norwegian Coast,Norwegian Coast
+Guernsey,GUERNSEY,68,24,31,Port,English Channel,UK Coast & Atlantic
+China,CHANGSHU ANCH,68,154,154,Anchorage,East China Sea,Central China
+United Kingdom,COWES,68,152,106,Port,English Channel,UK Coast & Atlantic
+Jersey,ST HELIER,67,28,28,Port,English Channel,UK Coast & Atlantic
+Peru,CALLAO ANCH,67,48,53,Anchorage,West South America,West South America
+Hong Kong,HONG KONG ANCH,67,117,112,Anchorage,South China,South China
+China,QINGDAO ANCH,67,120,91,Anchorage,Yellow Sea,North China
+Germany,NEUSTADT,67,20,27,Port,Baltic Sea,Baltic Sea
+Saudi Arabia,JEDDAH,66,37,37,Port,Red Sea,Red Sea
+Denmark,SKAGEN,66,28,44,Port,Kattegat,Baltic Sea
+USA,OAKLAND,66,36,44,Port,US West Coast,US West Coast
+Bulgaria,VARNA,66,6,7,Port,Black Sea,Black Sea
+Australia,FREMANTLE,66,58,59,Port,West Australia,West Australia
+Vietnam,NGHI SON,66,17,20,Port,South-East Asia,South-East Asia
+Netherlands,LELYSTAD HAVEN,66,34,45,Port,North Sea,UK Coast & Atlantic
+Netherlands,SNEEK,66,36,46,Port,North Sea,UK Coast & Atlantic
+USA,CHANNEL ISLANDS,66,18,24,Port,US West Coast,US West Coast
+China,HUANGGE,66,42,42,Port,South China,South China
+Turkey,ISKENDERUN,65,60,61,Port,East Mediterranean,East Mediterranean
+Russia,MOSCOW,65,8,9,Port,"Inland, Russia","Inland, Russia"
+United Kingdom,GRIMSBY,65,36,61,Port,North Sea,UK Coast & Atlantic
+Netherlands,DEN OEVER,65,62,52,Port,North Sea,UK Coast & Atlantic
+Germany,NORD-OSTSEE-KANAL,65,84,82,Canal,Kiel Canal,UK Coast & Atlantic
+Australia,HOPE ISLAND,65,10,11,Port,Coral Sea,East Australia
+USA,GIG HARBOR,65,15,25,Marina,US West Coast,US West Coast
+Bangladesh,CHITTAGONG,64,17,13,Port,Bengal Bay,East Coast India
+Panama,PANAMA CANAL,64,149,140,Canal,Panama Canal,West Coast Central America
+Brazil,PARANAGUA,64,9,10,Port,East Coast South America,East Coast South America
+France,FOS SUR MER,64,27,35,Port,West Mediterranean,West Mediterranean
+China,QIDONG,64,12,19,Port,East China Sea,Central China
+Malaysia,PENANG,64,48,52,Port,Malacca Strait,Indonesia
+United Arab Emirates,HAMRIYA,64,8,6,Port,Persian Gulf,Arabian Gulf
+Russia,PETROPAVLOVSK,64,15,11,Port,Bering Sea,CIS Pacific
+United Arab Emirates,KHOR FAKKAN ANCH,64,62,55,Anchorage,Oman Gulf,Arabian Gulf
+Taiwan,KAOHSIUNG ANCH,64,36,32,Anchorage,South China,South China
+Korea,DAESAN,63,69,65,Port,Yellow Sea,North China
+Spain,TARRAGONA,63,45,26,Port,Balearic Sea,West Mediterranean
+Portugal,LEIXOES,63,66,55,Port,UK Coast & Atlantic,UK Coast & Atlantic
+China,CHANGXINDAO,63,29,29,Port,Bohai Sea,North China
+USA,PORT ARTHUR,63,47,49,Port,Gulf of Mexico,Gulf of Mexico
+USA,CHICAGO,63,21,18,Port,Lake Michigan,Great Lakes
+Netherlands,DELFZIJL,63,26,23,Port,North Sea,UK Coast & Atlantic
+Netherlands,SCHEVENINGEN,63,34,35,Port,Rotterdam Area,UK Coast & Atlantic
+China,ZHANJIANG ANCH,63,27,21,Anchorage,South China,South China
+Canada,FALSE CREEK,63,30,36,Marina,West Coast Canada,West Coast Canada
+Peru,CALLAO,62,61,58,Port,West South America,West South America
+Australia,MELBOURNE,62,31,37,Port,Tasman Sea,East Australia
+India,MUNDRA,62,38,40,Port,West Coast India,West Coast India
+Israel,HAIFA,62,26,20,Port,East Mediterranean,East Mediterranean
+France,ROUEN,62,15,28,Port,"Inland, Europe","Inland, Europe"
+China,XIANGSHAN,62,16,23,Port,East China Sea,Central China
+Denmark,HIRTSHALS,62,24,46,Port,Kattegat,UK Coast & Atlantic
+Netherlands,ZAANDAM,62,33,33,Port,North Sea,UK Coast & Atlantic
+Iran,BANDAR ABBAS ANCH,62,26,20,Anchorage,Persian Gulf,Arabian Gulf
+China,LIJIANG,62,31,51,Port,South China,South China
+Greece,GOUVIA,62,18,22,Marina,Ionian Sea,East Mediterranean
+India,KOCHI,61,38,43,Port,West Coast India,West Coast India
+USA,TAMPA,61,23,21,Port,Gulf of Mexico,Gulf of Mexico
+USA,JACKSONVILLE,61,12,13,Port,US East Coast,US East Coast
+Turkey,TUZLA ANCH,61,48,53,Anchorage,Marmara Sea,Black Sea
+Italy,VENICE,60,30,28,Port,Adriatic Sea,Adriatic Sea
+Saudi Arabia,AL JUBAIL,60,15,21,Port,Persian Gulf,Arabian Gulf
+China,HAIKOU,60,28,44,Port,South China,South China
+Netherlands,MOERDIJK,60,28,38,Port,North Sea,UK Coast & Atlantic
+Germany,WILHELMSHAVEN,60,15,22,Port,North Sea,UK Coast & Atlantic
+China,CHEK LAP KOK,60,113,114,Port,South China,South China
+Germany,TRAVEMUNDE,60,54,54,Port,Baltic Sea,Baltic Sea
+Netherlands,AMSTERDAM ANCH,60,32,29,Anchorage,North Sea,UK Coast & Atlantic
+Sri Lanka,COLOMBO,59,16,15,Port,Laccadive Sea,East Coast India
+USA,CORPUS CHRISTI,59,33,30,Port,Gulf of Mexico,Gulf of Mexico
+China,LUSHUN,59,85,94,Port,Bohai Sea,North China
+Ecuador,GUAYAQUIL,59,10,11,Port,West South America,West South America
+Germany,LUBECK,59,24,39,Port,Baltic Sea,Baltic Sea
+Australia,CAIRNS,59,25,29,Port,Coral Sea,East Australia
+Portugal,PORTIMAO,59,26,22,Port,UK Coast & Atlantic,UK Coast & Atlantic
+Denmark,HANSTHOLM,59,9,31,Port,North Sea,UK Coast & Atlantic
+United Kingdom,LOWESTOFT,59,25,34,Port,North Sea,UK Coast & Atlantic
+Guinea,KAMSAR ANCH,59,32,29,Anchorage,West Africa,West Africa
+Canada,TORONTO,59,9,9,Port,Lake Ontario,Great Lakes
+Norway,KJOLLEFJORD,59,13,9,Port,Norwegian Coast,Norwegian Coast
+Togo,LOME ANCH,59,12,14,Anchorage,Gulf of Guinea,West Africa
+USA,MARINA PLAZA HARBOR,59,22,29,Marina,US West Coast,US West Coast
+Russia,ARKHANGELSK,58,2,1,Port,White Sea,North Coast CIS
+Korea,BUSAN NEW PORT,58,88,79,Port,North China,North China
+Italy,NAPOLI,58,31,30,Port,Tyrrhenian Sea,West Mediterranean
+Spain,TORREVIEJA,58,22,23,Port,West Mediterranean,West Mediterranean
+Vietnam,HON GAI ANCH,58,22,20,Anchorage,South-East Asia,South-East Asia
+France,PORT DU CROUESTY,58,18,49,Port,Biscay Bay,UK Coast & Atlantic
+Netherlands,ROTTERDAM ANCH,58,29,23,Anchorage,North Sea,UK Coast & Atlantic
+USA,WATERFORD HARBOR,58,11,17,Marina,Gulf of Mexico,Gulf of Mexico
+Japan,MIZUSHIMA,57,87,80,Port,Japan Coast,Japan Coast
+Russia,ROSTOV-ON-DON,57,17,28,Port,Azov Sea,"Inland, Russia"
+Denmark,ESBJERG,57,60,69,Port,North Sea,UK Coast & Atlantic
+Netherlands,LAUWERSOOG,57,59,46,Port,North Sea,UK Coast & Atlantic
+Japan,TOKYO BAY,57,200,181,Anchorage,Japan Coast,Japan Coast
+United Kingdom,POOLE,57,29,46,Port,English Channel,UK Coast & Atlantic
+Bahrain,GALALI,57,2,1,Port,Persian Gulf,Arabian Gulf
+United Kingdom,SOLENT,57,12,32,Port,English Channel,UK Coast & Atlantic
+Malaysia,TANJUNG PELEPAS ANCH,57,50,51,Anchorage,Singapore Area,Indonesia
+Spain,CORUNA,56,43,41,Port,Biscay Bay,UK Coast & Atlantic
+Korea,GOHYEON,56,35,36,Port,North China,North China
+China,LIAN JIANG,56,37,25,Port,East China Sea,South China
+Finland,TURKU,56,10,14,Port,Bothnia Gulf,Baltic Sea
+Canada,VAN ISLE,56,15,24,Marina,West Coast Canada,West Coast Canada
+China,BINZHOU,55,44,42,Port,Bohai Sea,North China
+Russia,UST-LUGA,55,43,42,Port,Finland Gulf,Baltic Sea
+Angola,LUANDA,55,13,11,Port,West Africa,West Africa
+Russia,NAKHODKA,55,16,23,Port,CIS Pacific,CIS Pacific
+Ivory Coast,ABIDJAN,55,6,5,Port,Gulf of Guinea,West Africa
+Taiwan,TAIPEI,55,13,15,Port,East China Sea,South China
+Australia,TOWNSVILLE,55,57,62,Port,Coral Sea,East Australia
+Nigeria,PORT HARCOURT,55,16,15,Port,Gulf of Guinea,West Africa
+United Kingdom,PORTLAND UK,55,22,28,Port,English Channel,UK Coast & Atlantic
+Netherlands,MUIDERZAND,55,19,39,Port,North Sea,UK Coast & Atlantic
+Mexico,DOS BOCAS,54,24,26,Port,Gulf of Mexico,Gulf of Mexico
+Canada,QUEBEC,54,17,21,Port,St. Lawrence River,East Coast Canada
+New Caledonia,NOUMEA,54,29,33,Port,Coral Sea,East Australia
+Germany,EMDEN,54,29,38,Port,North Sea,UK Coast & Atlantic
+Turkey,NEMRUT,54,46,44,Port,Aegean Sea,East Mediterranean
+Poland,SWINOUJSCIE,54,40,30,Port,Baltic Sea,Baltic Sea
+Netherlands,MAASBRACHT,54,36,41,Port,"Inland, Europe","Inland, Europe"
+Korea,YEOSU ANCH,54,121,100,Anchorage,East China Sea,North China
+Italy,SANREMO,54,9,7,Port,Ligurean Sea,West Mediterranean
+Netherlands,VOLENDAM,54,45,50,Port,North Sea,UK Coast & Atlantic
+USA,ALAMITOS BAY,54,12,26,Marina,US West Coast,US West Coast
+Netherlands,HINDELOOPEN,54,33,36,Port,North Sea,UK Coast & Atlantic
+Germany,LABOE,54,34,50,Marina,Kiel Canal,Baltic Sea
+Korea,TONGYEONG,53,82,94,Port,North China,North China
+Japan,SAKAI,53,100,97,Port,Japan Coast,Japan Coast
+USA,MOBILE,53,19,22,Port,Gulf of Mexico,Gulf of Mexico
+Canada,PRINCE RUPERT,53,41,46,Port,West Coast Canada,West Coast Canada
+Korea,SAMCHEONPO,53,29,42,Port,North China,North China
+Denmark,GILLELEJE,53,19,26,Port,Kattegat,Baltic Sea
+Netherlands,FLEVO MARINA,53,27,42,Port,North Sea,UK Coast & Atlantic
+Brazil,PARANAGUA ANCH,53,3,8,Anchorage,East Coast South America,East Coast South America
+United Kingdom,PORT HAMBLE,53,22,39,Marina,English Channel,UK Coast & Atlantic
+Australia,SOUTHPORT QLD,53,22,20,Port,Coral Sea,East Australia
+New Zealand,AUCKLAND,52,74,85,Port,East Australia,East Australia
+Puerto Rico,SAN JUAN,52,4,5,Port,Caribbean Sea,Caribbean Sea
+Japan,KUSHIRO,52,73,57,Port,Japan Coast,Japan Coast
+USA,KODIAK,52,5,3,Port,Gulf of Alaska,Alaska
+United Kingdom,LIVERPOOL,52,31,45,Port,Irish Sea,UK Coast & Atlantic
+Denmark,AALBORG,52,9,22,Port,Kattegat,UK Coast & Atlantic
+Netherlands,STELLENDAM,52,21,16,Port,Rotterdam Area,UK Coast & Atlantic
+USA,NEW BEDFORD,52,6,5,Port,US East Coast,US East Coast
+Greece,AGIOS KOSMAS,52,4,17,Marina,Piraeus Area,East Mediterranean
+Greece,ALIMOS,52,24,24,Marina,Piraeus Area,East Mediterranean
+USA,AVENTURA,52,8,9,Port,US East Coast,US East Coast
+Nigeria,LAGOS ANCH,52,23,26,Anchorage,Gulf of Guinea,West Africa
+Sweden,LANGEDRAG,52,58,75,Port,Kattegat,Baltic Sea
+Panama,PANAMA ANCH ATLANTIC,52,26,31,Anchorage,Panama Canal,East Coast Central America
+China,FUZHOU,51,18,23,Port,East China Sea,South China
+Korea,ONSAN,51,121,121,Port,North China,North China
+China,PENGLAI,51,63,61,Port,Bohai Sea,North China
+USA,PORT EVERGLADES,51,23,21,Port,US East Coast,US East Coast
+India,KAKINADA,51,8,10,Port,Bengal Bay,East Coast India
+Japan,NAHA,51,33,42,Port,East China Sea,Japan Coast
